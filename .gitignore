@@ -1,2 +1,9 @@
 Icon\r
 Icon\r
+MPTCP scripts/Icon\r
+SPTCP scripts/Icon\r
+new scripts/Icon\r
+parallel_analysis/Icon\r
+parallel_analysis/mptcp_parallel/Icon\r
+parallel_analysis/sptcp_parallel/Icon\r
+server scripts/Icon\r
