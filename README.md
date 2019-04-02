@@ -1,4 +1,4 @@
-# Raspberry Pi Scripts for MPTCP data collection
+# Raspberry Pi scripts for MPTCP data collection
 
 The repository contains scripts for MPTCP data collection over two USB LTE interfaces. The kernel used in our setup was MPTCP v0.93 which is based on Linux Kernel v4.14. *However, the scripts will work for any kernel version.*
 
